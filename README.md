@@ -22,4 +22,4 @@ A responsive food ordering cart inspired by Zomato, built using HTML, CSS, Boots
 
 This project is hosted on GitHub Pages. You can view the live demo here:
 
-`https://poornima-rajarao.github.io/responsive-zomato-cart/`
+`https://poornimarajarao.github.io/responsive-zomato-cart/`
